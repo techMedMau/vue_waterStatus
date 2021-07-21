@@ -1,21 +1,6 @@
-# w5_exc2
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# vue_waterStatus
+運用台灣水庫即時實情api仿作台灣水庫即時實情網站，並練習css動畫製作水波紋效果
+<br/>
+以vue開發
+<br/>
+github pages link: https://techmedmau.github.io/vue_waterStatus/
