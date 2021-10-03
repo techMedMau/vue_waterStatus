@@ -1,6 +1,6 @@
 # vue_waterStatus
-運用台灣水庫即時實情api仿作台灣水庫即時實情網站，並練習css動畫製作水波紋效果
+Using open api from Taiwan reservoir website to practice capturing dynamic data and CSS wave animation
 <br/>
-以vue開發
+develop tool: Vue
 <br/>
 github pages link: https://techmedmau.github.io/vue_waterStatus/
